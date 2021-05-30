@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: cafe@kome.top
 description: "Kome Café chuyên cung cấp Cafe Rang Xay Nguyên Chất cho các quán coffee tại Hà Nội. Cà phê nguyên chất 100% rang mộc sạch, túi thơm cafe ô tô, hộp quà cao cấp"
 keyword: "KomeCafe, Kome Cafe, Kome, Cà Phê Rang Xay Nguyên Chất, Cà Phê Nguyên Chất, Cà Phê Rang Xay, Cà Phê Mộc, túi thơm Cafe, mặt nạ cà phê, cà phê bột, cà phê hạt"
-url: "https://komecafe.github.io"              # your host, for absolute URL
+url: "https://kome.cafe"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hoangdacviet
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
